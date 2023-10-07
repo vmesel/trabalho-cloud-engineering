@@ -2,9 +2,9 @@
 
 Grupo composto por:
 
- - Daniel Udala - 
- - Giancarlo Lester - 
- - Sarah Luize - 
+ - Daniel Udala - RM 348932
+ - Giancarlo Lester - RM 348315
+ - Sarah Luize - RM 348391
  - Vinicius Mesel - RM 348353
 
 ## Subindo o ambiente
